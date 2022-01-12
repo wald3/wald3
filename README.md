@@ -1,8 +1,15 @@
-### Hi there 👋
+## Hi there  👋
+
+<!-- I will count it as a HI ¯\_(ツ)_/¯  -->
+
+<!-- [ ] <- No-Break Space, feel fre to use  -->
+![](https://komarev.com/ghpvc/?username=wald3&color=blueviolet&style=flat-square&label=   (╯°□°)╯   )
+![](https://hit.yhype.me/github/profile?user_id=40742588)
+
 
 <!--
-**wald3/wald3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**wald3/wald3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+     
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
